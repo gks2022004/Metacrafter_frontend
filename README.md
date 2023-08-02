@@ -1,13 +1,24 @@
-# Sample Hardhat Project
+# My-Pay
+It is a simple frontend through which we can transfer ethereums to anyone by their metamask address.
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+## Steps to use
+- Connect the wallet by clicking the "`connect wallet` button"
+- Enter the recipient address
+- Enter the amount of ethereums you want to transfer
+- Click on the "`Transfer Ether` button"
 
-Try running some of the following tasks:
+## Features
+- Transfer ethers efficiently
+- Shows the "transaction is successful" message
+- Shows the wallet balance
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+ ## Preview
+ ![image](https://github.com/gks2022004/Metacrafter_frontend/assets/94637265/4922664b-f6cb-4219-874f-c9b191f23991)
+
+ ## Tech used
+ - Metamask
+ - Remix-IDE
+
+## Active page
+https://gks2022004.github.io/Metacrafter_frontend/
+
