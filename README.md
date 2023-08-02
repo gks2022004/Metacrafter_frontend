@@ -22,3 +22,8 @@ It is a simple frontend through which we can transfer ethereums to anyone by the
 ## Active page
 https://gks2022004.github.io/Metacrafter_frontend/
 
+## License
+MIT License
+
+Copyright (c) 2023 Gaurav Kumar Singh
+
