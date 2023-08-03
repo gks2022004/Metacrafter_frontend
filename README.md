@@ -23,7 +23,7 @@ It is a simple frontend through which we can transfer ethereums to anyone by the
 https://gks2022004.github.io/Metacrafter_frontend/
 
 ## License
-MIT License
+MIT License- See details [here](https://github.com/gks2022004/Metacrafter_frontend/blob/main/LICENSE)
 
 Copyright (c) 2023 Gaurav Kumar Singh
 
